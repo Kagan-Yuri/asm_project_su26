@@ -1,0 +1,169 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "Admin_123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "user1",
+      "password": "User_456",
+      "role": "customer"
+    },
+    {
+      "id": "3",
+      "username": "dung",
+      "password": "Dung_223",
+      "role": "customer"
+    },
+    {
+      "id": "4",
+      "username": "hieun",
+      "password": "Ht-2345678",
+      "role": "customer"
+    },
+    {
+      "id": "5",
+      "username": "phuong",
+      "password": "loroi_123",
+      "role": "customer"
+    }
+  ],
+  "userinformations": [
+    {
+      "id": "1",
+      "userId": "1",
+      "fullName": "Quản Trị Viên",
+      "phone": "0999999999",
+      "address": "Hà Nội, Việt Nam",
+      "avatarUrl": "https://example.com/avatar/admin.jpg"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "fullName": "Nhã",
+      "phone": "0901234567",
+      "address": "Cầu Giấy, Hà Nội",
+      "avatarUrl": "https://example.com/avatar/user1.jpg"
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "fullName": "Tiến Dũng",
+      "phone": "0912345678",
+      "address": "Hải Châu, Đà Nẵng",
+      "avatarUrl": "https://example.com/avatar/dung.jpg"
+    },
+    {
+      "id": "4",
+      "userId": "4",
+      "fullName": "Nguyễn Hiếu",
+      "phone": "0923456789",
+      "address": "Quận 1, TP.HCM",
+      "avatarUrl": "https://example.com/avatar/hieun.jpg"
+    },
+    {
+      "id": "5",
+      "userId": "5",
+      "fullName": "Thu Phương",
+      "phone": "0934567890",
+      "address": "Ninh Kiều, Cần Thơ",
+      "avatarUrl": "https://example.com/avatar/phuong.jpg"
+    }
+  ],
+  "shops": [
+    {
+      "id": "1",
+      "ownerId": "1",
+      "name": "Tiệm Sách Cũ Bách Khoa",
+      "description": "Chuyên cho thuê các loại sách giáo trình, IT và ngoại ngữ.",
+      "rating": 4.8,
+      "isActive": true
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "shopId": "1",
+      "price": 15000,
+      "rentCount": 120,
+      "stock": 5,
+      "status": "available"
+    },
+    {
+      "id": "2",
+      "shopId": "1",
+      "price": 20000,
+      "rentCount": 350,
+      "stock": 2,
+      "status": "available"
+    },
+    {
+      "id": "3",
+      "shopId": "1",
+      "price": 12000,
+      "rentCount": 85,
+      "stock": 0,
+      "status": "out_of_stock"
+    }
+  ],
+  "bookinformations": [
+    {
+      "id": "1",
+      "bookId": "1",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "IT",
+      "description": "Cuốn sách kinh điển về nghệ thuật viết mã sạch và thiết kế phần mềm.",
+      "imageUrl": "https://example.com/images/cleancode.jpg",
+      "publishedYear": 2008
+    },
+    {
+      "id": "2",
+      "bookId": "2",
+      "title": "Head First Java",
+      "author": "Kathy Sierra",
+      "category": "IT",
+      "description": "Tài liệu học lập trình hướng đối tượng bằng Java trực quan, sinh động.",
+      "imageUrl": "https://example.com/images/hfjava.jpg",
+      "publishedYear": 2003
+    },
+    {
+      "id": "3",
+      "bookId": "3",
+      "title": "Japanese for Busy People I",
+      "author": "AJALT",
+      "category": "Ngoại ngữ",
+      "description": "Sách học ngữ pháp và từ vựng tiếng Nhật cơ bản.",
+      "imageUrl": "https://example.com/images/japanese.jpg",
+      "publishedYear": 2012
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "userId": "2",
+      "shopId": "1",
+      "status": "renting",
+      "totalAmount": 35000,
+      "rentalStartDate": "2026-06-15T00:00:00Z",
+      "rentalEndDate": "2026-06-22T00:00:00Z",
+      "items": [
+        { "bookId": "1", "quantity": 1, "rentPrice": 15000 },
+        { "bookId": "2", "quantity": 1, "rentPrice": 20000 }
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "id": "1",
+      "orderId": "1",
+      "method": "credit_card",
+      "status": "success",
+      "amount": 35000,
+      "transactionDate": "2026-06-15T10:30:00Z"
+    }
+  ]
+}
