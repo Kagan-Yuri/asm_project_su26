@@ -22,6 +22,7 @@ function Register() {
         <br />
         Username: <input type="text" id="txtUser" name="txtUser" /> <br />
         Password: <input type="password" id="txtPass" name="txtPass" /> <br />
+        Confirm Password: <input type="password"/><br/>
         <Button variant="primary"> LOGIN </Button>
       </Form>
     </Card>
