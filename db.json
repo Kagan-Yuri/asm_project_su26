@@ -2,32 +2,212 @@
   "users": [
     {
       "id": "1",
-      "username": "admin",
-      "password": "Admin_123",
+      "username": "user1",
+      "email": "user1@gmail.com",
+      "password": "User123@",
       "role": "admin"
     },
     {
       "id": "2",
-      "username": "user1",
-      "password": "User_456",
+      "username": "user2",
+      "email": "user2@gmail.com",
+      "password": "User123@",
       "role": "customer"
     },
     {
       "id": "3",
-      "username": "dung",
-      "password": "Dung_223",
+      "username": "user3",
+      "email": "user3@gmail.com",
+      "password": "User123@",
       "role": "customer"
     },
     {
       "id": "4",
-      "username": "hieun",
-      "password": "Ht-2345678",
+      "username": "user4",
+      "email": "user4@gmail.com",
+      "password": "User123@",
       "role": "customer"
     },
     {
       "id": "5",
-      "username": "phuong",
-      "password": "loroi_123",
+      "username": "user5",
+      "email": "user5@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "6",
+      "username": "user6",
+      "email": "user6@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "7",
+      "username": "user7",
+      "email": "user7@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "8",
+      "username": "user8",
+      "email": "user8@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "9",
+      "username": "user9",
+      "email": "user9@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "10",
+      "username": "user10",
+      "email": "user10@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "11",
+      "username": "user11",
+      "email": "user11@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "12",
+      "username": "user12",
+      "email": "user12@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "13",
+      "username": "user13",
+      "email": "user13@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "14",
+      "username": "user14",
+      "email": "user14@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "15",
+      "username": "user15",
+      "email": "user15@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "16",
+      "username": "user16",
+      "email": "user16@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "17",
+      "username": "user17",
+      "email": "user17@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "18",
+      "username": "user18",
+      "email": "user18@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "19",
+      "username": "user19",
+      "email": "user19@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "20",
+      "username": "user20",
+      "email": "user20@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "21",
+      "username": "user21",
+      "email": "user21@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "22",
+      "username": "user22",
+      "email": "user22@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "23",
+      "username": "user23",
+      "email": "user23@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "24",
+      "username": "user24",
+      "email": "user24@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "25",
+      "username": "user25",
+      "email": "user25@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "26",
+      "username": "user26",
+      "email": "user26@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "27",
+      "username": "user27",
+      "email": "user27@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "28",
+      "username": "user28",
+      "email": "user28@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "29",
+      "username": "user29",
+      "email": "user29@gmail.com",
+      "password": "User123@",
+      "role": "customer"
+    },
+    {
+      "id": "30",
+      "username": "user30",
+      "email": "user30@gmail.com",
+      "password": "User123@",
       "role": "customer"
     }
   ],
@@ -35,51 +215,543 @@
     {
       "id": "1",
       "userId": "1",
-      "fullName": "Quản Trị Viên",
-      "phone": "0999999999",
-      "address": "Hà Nội, Việt Nam",
-      "avatarUrl": "https://example.com/avatar/admin.jpg"
+      "fullName": "Người Dùng 1",
+      "phone": "0910000001",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=1"
     },
     {
       "id": "2",
       "userId": "2",
-      "fullName": "Nhã",
-      "phone": "0901234567",
-      "address": "Cầu Giấy, Hà Nội",
-      "avatarUrl": "https://example.com/avatar/user1.jpg"
+      "fullName": "Người Dùng 2",
+      "phone": "0910000002",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=2"
     },
     {
       "id": "3",
       "userId": "3",
-      "fullName": "Tiến Dũng",
-      "phone": "0912345678",
-      "address": "Hải Châu, Đà Nẵng",
-      "avatarUrl": "https://example.com/avatar/dung.jpg"
+      "fullName": "Người Dùng 3",
+      "phone": "0910000003",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=3"
     },
     {
       "id": "4",
       "userId": "4",
-      "fullName": "Nguyễn Hiếu",
-      "phone": "0923456789",
-      "address": "Quận 1, TP.HCM",
-      "avatarUrl": "https://example.com/avatar/hieun.jpg"
+      "fullName": "Người Dùng 4",
+      "phone": "0910000004",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=4"
     },
     {
       "id": "5",
       "userId": "5",
-      "fullName": "Thu Phương",
-      "phone": "0934567890",
-      "address": "Ninh Kiều, Cần Thơ",
-      "avatarUrl": "https://example.com/avatar/phuong.jpg"
+      "fullName": "Người Dùng 5",
+      "phone": "0910000005",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=5"
+    },
+    {
+      "id": "6",
+      "userId": "6",
+      "fullName": "Người Dùng 6",
+      "phone": "0910000006",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=6"
+    },
+    {
+      "id": "7",
+      "userId": "7",
+      "fullName": "Người Dùng 7",
+      "phone": "0910000007",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=7"
+    },
+    {
+      "id": "8",
+      "userId": "8",
+      "fullName": "Người Dùng 8",
+      "phone": "0910000008",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=8"
+    },
+    {
+      "id": "9",
+      "userId": "9",
+      "fullName": "Người Dùng 9",
+      "phone": "0910000009",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=9"
+    },
+    {
+      "id": "10",
+      "userId": "10",
+      "fullName": "Người Dùng 10",
+      "phone": "0910000010",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=10"
+    },
+    {
+      "id": "11",
+      "userId": "11",
+      "fullName": "Người Dùng 11",
+      "phone": "0910000011",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=11"
+    },
+    {
+      "id": "12",
+      "userId": "12",
+      "fullName": "Người Dùng 12",
+      "phone": "0910000012",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=12"
+    },
+    {
+      "id": "13",
+      "userId": "13",
+      "fullName": "Người Dùng 13",
+      "phone": "0910000013",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=13"
+    },
+    {
+      "id": "14",
+      "userId": "14",
+      "fullName": "Người Dùng 14",
+      "phone": "0910000014",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=14"
+    },
+    {
+      "id": "15",
+      "userId": "15",
+      "fullName": "Người Dùng 15",
+      "phone": "0910000015",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=15"
+    },
+    {
+      "id": "16",
+      "userId": "16",
+      "fullName": "Người Dùng 16",
+      "phone": "0910000016",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=16"
+    },
+    {
+      "id": "17",
+      "userId": "17",
+      "fullName": "Người Dùng 17",
+      "phone": "0910000017",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=17"
+    },
+    {
+      "id": "18",
+      "userId": "18",
+      "fullName": "Người Dùng 18",
+      "phone": "0910000018",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=18"
+    },
+    {
+      "id": "19",
+      "userId": "19",
+      "fullName": "Người Dùng 19",
+      "phone": "0910000019",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=19"
+    },
+    {
+      "id": "20",
+      "userId": "20",
+      "fullName": "Người Dùng 20",
+      "phone": "0910000020",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=20"
+    },
+    {
+      "id": "21",
+      "userId": "21",
+      "fullName": "Người Dùng 21",
+      "phone": "0910000021",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=21"
+    },
+    {
+      "id": "22",
+      "userId": "22",
+      "fullName": "Người Dùng 22",
+      "phone": "0910000022",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=22"
+    },
+    {
+      "id": "23",
+      "userId": "23",
+      "fullName": "Người Dùng 23",
+      "phone": "0910000023",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=23"
+    },
+    {
+      "id": "24",
+      "userId": "24",
+      "fullName": "Người Dùng 24",
+      "phone": "0910000024",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=24"
+    },
+    {
+      "id": "25",
+      "userId": "25",
+      "fullName": "Người Dùng 25",
+      "phone": "0910000025",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=25"
+    },
+    {
+      "id": "26",
+      "userId": "26",
+      "fullName": "Người Dùng 26",
+      "phone": "0910000026",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=26"
+    },
+    {
+      "id": "27",
+      "userId": "27",
+      "fullName": "Người Dùng 27",
+      "phone": "0910000027",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=27"
+    },
+    {
+      "id": "28",
+      "userId": "28",
+      "fullName": "Người Dùng 28",
+      "phone": "0910000028",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=28"
+    },
+    {
+      "id": "29",
+      "userId": "29",
+      "fullName": "Người Dùng 29",
+      "phone": "0910000029",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=29"
+    },
+    {
+      "id": "30",
+      "userId": "30",
+      "fullName": "Người Dùng 30",
+      "phone": "0910000030",
+      "address": "Hà Nội",
+      "avatarUrl": "https://i.pravatar.cc/300?img=30"
     }
   ],
   "shops": [
     {
       "id": "1",
       "ownerId": "1",
-      "name": "Tiệm Sách Cũ Bách Khoa",
-      "description": "Chuyên cho thuê các loại sách giáo trình, IT và ngoại ngữ.",
+      "name": "Fahasa Cầu Giấy",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.5,
+      "address": "Chi nhánh 1, Việt Nam",
+      "phone": "0820000001",
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "ownerId": "2",
+      "name": "Fahasa Hà Đông",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.2,
+      "address": "Chi nhánh 2, Việt Nam",
+      "phone": "0820000002",
+      "isActive": true
+    },
+    {
+      "id": "3",
+      "ownerId": "3",
+      "name": "Phương Nam Book City",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.3,
+      "address": "Chi nhánh 3, Việt Nam",
+      "phone": "0820000003",
+      "isActive": true
+    },
+    {
+      "id": "4",
+      "ownerId": "4",
+      "name": "Cá Chép Books",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.5,
+      "address": "Chi nhánh 4, Việt Nam",
+      "phone": "0820000004",
+      "isActive": true
+    },
+    {
+      "id": "5",
+      "ownerId": "5",
+      "name": "Tiki Book Rental",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.4,
+      "address": "Chi nhánh 5, Việt Nam",
+      "phone": "0820000005",
+      "isActive": true
+    },
+    {
+      "id": "6",
+      "ownerId": "6",
+      "name": "Book House Đà Nẵng",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.5,
+      "address": "Chi nhánh 6, Việt Nam",
+      "phone": "0820000006",
+      "isActive": true
+    },
+    {
+      "id": "7",
+      "ownerId": "7",
+      "name": "Nhà Sách Hải Châu",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.6,
+      "address": "Chi nhánh 7, Việt Nam",
+      "phone": "0820000007",
+      "isActive": true
+    },
+    {
+      "id": "8",
+      "ownerId": "8",
+      "name": "Smart Books",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.9,
+      "address": "Chi nhánh 8, Việt Nam",
+      "phone": "0820000008",
+      "isActive": true
+    },
+    {
+      "id": "9",
+      "ownerId": "9",
+      "name": "Minh Khai Books",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.4,
+      "address": "Chi nhánh 9, Việt Nam",
+      "phone": "0820000009",
+      "isActive": true
+    },
+    {
+      "id": "10",
+      "ownerId": "10",
+      "name": "Alpha Books Store",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.4,
+      "address": "Chi nhánh 10, Việt Nam",
+      "phone": "0820000010",
+      "isActive": true
+    },
+    {
+      "id": "11",
+      "ownerId": "11",
+      "name": "Book World",
+      "description": "Cho thuê sách học tập và kỹ năng",
       "rating": 4.8,
+      "address": "Chi nhánh 11, Việt Nam",
+      "phone": "0820000011",
+      "isActive": true
+    },
+    {
+      "id": "12",
+      "ownerId": "12",
+      "name": "Sách Việt",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.5,
+      "address": "Chi nhánh 12, Việt Nam",
+      "phone": "0820000012",
+      "isActive": true
+    },
+    {
+      "id": "13",
+      "ownerId": "13",
+      "name": "Knowledge Hub",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.6,
+      "address": "Chi nhánh 13, Việt Nam",
+      "phone": "0820000013",
+      "isActive": true
+    },
+    {
+      "id": "14",
+      "ownerId": "14",
+      "name": "Green Book",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.5,
+      "address": "Chi nhánh 14, Việt Nam",
+      "phone": "0820000014",
+      "isActive": true
+    },
+    {
+      "id": "15",
+      "ownerId": "15",
+      "name": "Reading Corner",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.3,
+      "address": "Chi nhánh 15, Việt Nam",
+      "phone": "0820000015",
+      "isActive": true
+    },
+    {
+      "id": "16",
+      "ownerId": "16",
+      "name": "Book Garden",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.3,
+      "address": "Chi nhánh 16, Việt Nam",
+      "phone": "0820000016",
+      "isActive": true
+    },
+    {
+      "id": "17",
+      "ownerId": "17",
+      "name": "Tri Thức Store",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.6,
+      "address": "Chi nhánh 17, Việt Nam",
+      "phone": "0820000017",
+      "isActive": true
+    },
+    {
+      "id": "18",
+      "ownerId": "18",
+      "name": "Edu Books",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.7,
+      "address": "Chi nhánh 18, Việt Nam",
+      "phone": "0820000018",
+      "isActive": true
+    },
+    {
+      "id": "19",
+      "ownerId": "19",
+      "name": "Book Planet",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.7,
+      "address": "Chi nhánh 19, Việt Nam",
+      "phone": "0820000019",
+      "isActive": true
+    },
+    {
+      "id": "20",
+      "ownerId": "20",
+      "name": "Sunrise Books",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.3,
+      "address": "Chi nhánh 20, Việt Nam",
+      "phone": "0820000020",
+      "isActive": true
+    },
+    {
+      "id": "21",
+      "ownerId": "21",
+      "name": "Book Coffee",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.2,
+      "address": "Chi nhánh 21, Việt Nam",
+      "phone": "0820000021",
+      "isActive": true
+    },
+    {
+      "id": "22",
+      "ownerId": "22",
+      "name": "Open Library Shop",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.3,
+      "address": "Chi nhánh 22, Việt Nam",
+      "phone": "0820000022",
+      "isActive": true
+    },
+    {
+      "id": "23",
+      "ownerId": "23",
+      "name": "Future Books",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.4,
+      "address": "Chi nhánh 23, Việt Nam",
+      "phone": "0820000023",
+      "isActive": true
+    },
+    {
+      "id": "24",
+      "ownerId": "24",
+      "name": "Tech Books",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.2,
+      "address": "Chi nhánh 24, Việt Nam",
+      "phone": "0820000024",
+      "isActive": true
+    },
+    {
+      "id": "25",
+      "ownerId": "25",
+      "name": "AI Library",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.6,
+      "address": "Chi nhánh 25, Việt Nam",
+      "phone": "0820000025",
+      "isActive": true
+    },
+    {
+      "id": "26",
+      "ownerId": "26",
+      "name": "Happy Reading",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.5,
+      "address": "Chi nhánh 26, Việt Nam",
+      "phone": "0820000026",
+      "isActive": true
+    },
+    {
+      "id": "27",
+      "ownerId": "27",
+      "name": "Book Center",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.9,
+      "address": "Chi nhánh 27, Việt Nam",
+      "phone": "0820000027",
+      "isActive": true
+    },
+    {
+      "id": "28",
+      "ownerId": "28",
+      "name": "Sách Hay",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.5,
+      "address": "Chi nhánh 28, Việt Nam",
+      "phone": "0820000028",
+      "isActive": true
+    },
+    {
+      "id": "29",
+      "ownerId": "29",
+      "name": "Book Street",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.2,
+      "address": "Chi nhánh 29, Việt Nam",
+      "phone": "0820000029",
+      "isActive": true
+    },
+    {
+      "id": "30",
+      "ownerId": "30",
+      "name": "Readers House",
+      "description": "Cho thuê sách học tập và kỹ năng",
+      "rating": 4.7,
+      "address": "Chi nhánh 30, Việt Nam",
+      "phone": "0820000030",
       "isActive": true
     }
   ],
@@ -87,26 +759,302 @@
     {
       "id": "1",
       "shopId": "1",
-      "price": 15000,
-      "rentCount": 120,
-      "stock": 5,
+      "price": 21037,
+      "rentCount": 499,
+      "stock": 3,
+      "averageRating": 4.3,
+      "totalReviews": 214,
       "status": "available"
     },
     {
       "id": "2",
-      "shopId": "1",
-      "price": 20000,
-      "rentCount": 350,
-      "stock": 2,
+      "shopId": "2",
+      "price": 28082,
+      "rentCount": 396,
+      "stock": 4,
+      "averageRating": 5.0,
+      "totalReviews": 288,
       "status": "available"
     },
     {
       "id": "3",
-      "shopId": "1",
-      "price": 12000,
-      "rentCount": 85,
-      "stock": 0,
-      "status": "out_of_stock"
+      "shopId": "3",
+      "price": 21611,
+      "rentCount": 516,
+      "stock": 13,
+      "averageRating": 4.8,
+      "totalReviews": 236,
+      "status": "available"
+    },
+    {
+      "id": "4",
+      "shopId": "4",
+      "price": 20971,
+      "rentCount": 461,
+      "stock": 6,
+      "averageRating": 4.5,
+      "totalReviews": 231,
+      "status": "available"
+    },
+    {
+      "id": "5",
+      "shopId": "5",
+      "price": 24863,
+      "rentCount": 278,
+      "stock": 5,
+      "averageRating": 4.9,
+      "totalReviews": 111,
+      "status": "available"
+    },
+    {
+      "id": "6",
+      "shopId": "6",
+      "price": 20502,
+      "rentCount": 87,
+      "stock": 15,
+      "averageRating": 4.4,
+      "totalReviews": 157,
+      "status": "available"
+    },
+    {
+      "id": "7",
+      "shopId": "7",
+      "price": 23785,
+      "rentCount": 272,
+      "stock": 13,
+      "averageRating": 4.8,
+      "totalReviews": 228,
+      "status": "available"
+    },
+    {
+      "id": "8",
+      "shopId": "8",
+      "price": 26679,
+      "rentCount": 365,
+      "stock": 8,
+      "averageRating": 4.7,
+      "totalReviews": 234,
+      "status": "available"
+    },
+    {
+      "id": "9",
+      "shopId": "9",
+      "price": 14865,
+      "rentCount": 182,
+      "stock": 7,
+      "averageRating": 4.2,
+      "totalReviews": 251,
+      "status": "available"
+    },
+    {
+      "id": "10",
+      "shopId": "10",
+      "price": 17913,
+      "rentCount": 436,
+      "stock": 3,
+      "averageRating": 4.4,
+      "totalReviews": 133,
+      "status": "available"
+    },
+    {
+      "id": "11",
+      "shopId": "11",
+      "price": 26692,
+      "rentCount": 412,
+      "stock": 12,
+      "averageRating": 4.8,
+      "totalReviews": 230,
+      "status": "available"
+    },
+    {
+      "id": "12",
+      "shopId": "12",
+      "price": 15394,
+      "rentCount": 356,
+      "stock": 9,
+      "averageRating": 4.4,
+      "totalReviews": 59,
+      "status": "available"
+    },
+    {
+      "id": "13",
+      "shopId": "13",
+      "price": 26252,
+      "rentCount": 389,
+      "stock": 12,
+      "averageRating": 4.8,
+      "totalReviews": 225,
+      "status": "available"
+    },
+    {
+      "id": "14",
+      "shopId": "14",
+      "price": 21811,
+      "rentCount": 221,
+      "stock": 13,
+      "averageRating": 4.8,
+      "totalReviews": 183,
+      "status": "available"
+    },
+    {
+      "id": "15",
+      "shopId": "15",
+      "price": 23942,
+      "rentCount": 595,
+      "stock": 5,
+      "averageRating": 4.9,
+      "totalReviews": 261,
+      "status": "available"
+    },
+    {
+      "id": "16",
+      "shopId": "16",
+      "price": 23358,
+      "rentCount": 424,
+      "stock": 9,
+      "averageRating": 4.7,
+      "totalReviews": 166,
+      "status": "available"
+    },
+    {
+      "id": "17",
+      "shopId": "17",
+      "price": 15487,
+      "rentCount": 175,
+      "stock": 7,
+      "averageRating": 4.9,
+      "totalReviews": 38,
+      "status": "available"
+    },
+    {
+      "id": "18",
+      "shopId": "18",
+      "price": 29378,
+      "rentCount": 120,
+      "stock": 7,
+      "averageRating": 4.3,
+      "totalReviews": 277,
+      "status": "available"
+    },
+    {
+      "id": "19",
+      "shopId": "19",
+      "price": 14515,
+      "rentCount": 155,
+      "stock": 11,
+      "averageRating": 4.9,
+      "totalReviews": 30,
+      "status": "available"
+    },
+    {
+      "id": "20",
+      "shopId": "20",
+      "price": 19161,
+      "rentCount": 251,
+      "stock": 8,
+      "averageRating": 4.7,
+      "totalReviews": 229,
+      "status": "available"
+    },
+    {
+      "id": "21",
+      "shopId": "21",
+      "price": 13166,
+      "rentCount": 140,
+      "stock": 2,
+      "averageRating": 4.5,
+      "totalReviews": 181,
+      "status": "available"
+    },
+    {
+      "id": "22",
+      "shopId": "22",
+      "price": 22425,
+      "rentCount": 494,
+      "stock": 4,
+      "averageRating": 4.6,
+      "totalReviews": 106,
+      "status": "available"
+    },
+    {
+      "id": "23",
+      "shopId": "23",
+      "price": 20548,
+      "rentCount": 346,
+      "stock": 2,
+      "averageRating": 4.6,
+      "totalReviews": 193,
+      "status": "available"
+    },
+    {
+      "id": "24",
+      "shopId": "24",
+      "price": 19827,
+      "rentCount": 148,
+      "stock": 12,
+      "averageRating": 4.8,
+      "totalReviews": 138,
+      "status": "available"
+    },
+    {
+      "id": "25",
+      "shopId": "25",
+      "price": 28808,
+      "rentCount": 329,
+      "stock": 3,
+      "averageRating": 4.6,
+      "totalReviews": 101,
+      "status": "available"
+    },
+    {
+      "id": "26",
+      "shopId": "26",
+      "price": 28219,
+      "rentCount": 323,
+      "stock": 5,
+      "averageRating": 4.8,
+      "totalReviews": 32,
+      "status": "available"
+    },
+    {
+      "id": "27",
+      "shopId": "27",
+      "price": 17913,
+      "rentCount": 397,
+      "stock": 11,
+      "averageRating": 4.7,
+      "totalReviews": 255,
+      "status": "available"
+    },
+    {
+      "id": "28",
+      "shopId": "28",
+      "price": 24779,
+      "rentCount": 230,
+      "stock": 8,
+      "averageRating": 4.9,
+      "totalReviews": 95,
+      "status": "available"
+    },
+    {
+      "id": "29",
+      "shopId": "29",
+      "price": 17395,
+      "rentCount": 183,
+      "stock": 14,
+      "averageRating": 4.9,
+      "totalReviews": 86,
+      "status": "available"
+    },
+    {
+      "id": "30",
+      "shopId": "30",
+      "price": 22665,
+      "rentCount": 431,
+      "stock": 9,
+      "averageRating": 4.2,
+      "totalReviews": 21,
+      "status": "available"
     }
   ],
   "bookinformations": [
@@ -115,44 +1063,1051 @@
       "bookId": "1",
       "title": "Clean Code",
       "author": "Robert C. Martin",
-      "category": "IT",
-      "description": "Cuốn sách kinh điển về nghệ thuật viết mã sạch và thiết kế phần mềm.",
-      "imageUrl": "https://example.com/images/cleancode.jpg",
-      "publishedYear": 2008
+      "description": "Sách nổi tiếng Clean Code",
+      "imageUrl": "https://picsum.photos/seed/book1/400/600",
+      "publishedYear": 2002
     },
     {
       "id": "2",
       "bookId": "2",
-      "title": "Head First Java",
-      "author": "Kathy Sierra",
-      "category": "IT",
-      "description": "Tài liệu học lập trình hướng đối tượng bằng Java trực quan, sinh động.",
-      "imageUrl": "https://example.com/images/hfjava.jpg",
-      "publishedYear": 2003
+      "title": "Clean Architecture",
+      "author": "Robert C. Martin",
+      "description": "Sách nổi tiếng Clean Architecture",
+      "imageUrl": "https://picsum.photos/seed/book2/400/600",
+      "publishedYear": 2011
     },
     {
       "id": "3",
       "bookId": "3",
-      "title": "Japanese for Busy People I",
-      "author": "AJALT",
-      "category": "Ngoại ngữ",
-      "description": "Sách học ngữ pháp và từ vựng tiếng Nhật cơ bản.",
-      "imageUrl": "https://example.com/images/japanese.jpg",
+      "title": "Effective Java",
+      "author": "Joshua Bloch",
+      "description": "Sách nổi tiếng Effective Java",
+      "imageUrl": "https://picsum.photos/seed/book3/400/600",
+      "publishedYear": 2018
+    },
+    {
+      "id": "4",
+      "bookId": "4",
+      "title": "Head First Java",
+      "author": "Kathy Sierra",
+      "description": "Sách nổi tiếng Head First Java",
+      "imageUrl": "https://picsum.photos/seed/book4/400/600",
+      "publishedYear": 2008
+    },
+    {
+      "id": "5",
+      "bookId": "5",
+      "title": "Design Patterns",
+      "author": "GoF",
+      "description": "Sách nổi tiếng Design Patterns",
+      "imageUrl": "https://picsum.photos/seed/book5/400/600",
+      "publishedYear": 2014
+    },
+    {
+      "id": "6",
+      "bookId": "6",
+      "title": "Refactoring",
+      "author": "Martin Fowler",
+      "description": "Sách nổi tiếng Refactoring",
+      "imageUrl": "https://picsum.photos/seed/book6/400/600",
+      "publishedYear": 2015
+    },
+    {
+      "id": "7",
+      "bookId": "7",
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "description": "Sách nổi tiếng The Pragmatic Programmer",
+      "imageUrl": "https://picsum.photos/seed/book7/400/600",
+      "publishedYear": 2011
+    },
+    {
+      "id": "8",
+      "bookId": "8",
+      "title": "Spring in Action",
+      "author": "Craig Walls",
+      "description": "Sách nổi tiếng Spring in Action",
+      "imageUrl": "https://picsum.photos/seed/book8/400/600",
+      "publishedYear": 2023
+    },
+    {
+      "id": "9",
+      "bookId": "9",
+      "title": "Java Concurrency in Practice",
+      "author": "Brian Goetz",
+      "description": "Sách nổi tiếng Java Concurrency in Practice",
+      "imageUrl": "https://picsum.photos/seed/book9/400/600",
+      "publishedYear": 1999
+    },
+    {
+      "id": "10",
+      "bookId": "10",
+      "title": "Cracking the Coding Interview",
+      "author": "Gayle McDowell",
+      "description": "Sách nổi tiếng Cracking the Coding Interview",
+      "imageUrl": "https://picsum.photos/seed/book10/400/600",
+      "publishedYear": 2021
+    },
+    {
+      "id": "11",
+      "bookId": "11",
+      "title": "Hands-On Machine Learning",
+      "author": "Aurelien Geron",
+      "description": "Sách nổi tiếng Hands-On Machine Learning",
+      "imageUrl": "https://picsum.photos/seed/book11/400/600",
       "publishedYear": 2012
+    },
+    {
+      "id": "12",
+      "bookId": "12",
+      "title": "Deep Learning",
+      "author": "Ian Goodfellow",
+      "description": "Sách nổi tiếng Deep Learning",
+      "imageUrl": "https://picsum.photos/seed/book12/400/600",
+      "publishedYear": 2021
+    },
+    {
+      "id": "13",
+      "bookId": "13",
+      "title": "Machine Learning Yearning",
+      "author": "Andrew Ng",
+      "description": "Sách nổi tiếng Machine Learning Yearning",
+      "imageUrl": "https://picsum.photos/seed/book13/400/600",
+      "publishedYear": 2014
+    },
+    {
+      "id": "14",
+      "bookId": "14",
+      "title": "AI A Modern Approach",
+      "author": "Russell & Norvig",
+      "description": "Sách nổi tiếng AI A Modern Approach",
+      "imageUrl": "https://picsum.photos/seed/book14/400/600",
+      "publishedYear": 2013
+    },
+    {
+      "id": "15",
+      "bookId": "15",
+      "title": "Data Science from Scratch",
+      "author": "Joel Grus",
+      "description": "Sách nổi tiếng Data Science from Scratch",
+      "imageUrl": "https://picsum.photos/seed/book15/400/600",
+      "publishedYear": 2000
+    },
+    {
+      "id": "16",
+      "bookId": "16",
+      "title": "Python for Data Analysis",
+      "author": "Wes McKinney",
+      "description": "Sách nổi tiếng Python for Data Analysis",
+      "imageUrl": "https://picsum.photos/seed/book16/400/600",
+      "publishedYear": 2010
+    },
+    {
+      "id": "17",
+      "bookId": "17",
+      "title": "Storytelling with Data",
+      "author": "Cole Knaflic",
+      "description": "Sách nổi tiếng Storytelling with Data",
+      "imageUrl": "https://picsum.photos/seed/book17/400/600",
+      "publishedYear": 2008
+    },
+    {
+      "id": "18",
+      "bookId": "18",
+      "title": "Practical Statistics",
+      "author": "Peter Bruce",
+      "description": "Sách nổi tiếng Practical Statistics",
+      "imageUrl": "https://picsum.photos/seed/book18/400/600",
+      "publishedYear": 2007
+    },
+    {
+      "id": "19",
+      "bookId": "19",
+      "title": "Deep Learning with Python",
+      "author": "Francois Chollet",
+      "description": "Sách nổi tiếng Deep Learning with Python",
+      "imageUrl": "https://picsum.photos/seed/book19/400/600",
+      "publishedYear": 2019
+    },
+    {
+      "id": "20",
+      "bookId": "20",
+      "title": "Building ML Systems",
+      "author": "Luis Pedro",
+      "description": "Sách nổi tiếng Building ML Systems",
+      "imageUrl": "https://picsum.photos/seed/book20/400/600",
+      "publishedYear": 2004
+    },
+    {
+      "id": "21",
+      "bookId": "21",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "description": "Sách nổi tiếng Rich Dad Poor Dad",
+      "imageUrl": "https://picsum.photos/seed/book21/400/600",
+      "publishedYear": 2007
+    },
+    {
+      "id": "22",
+      "bookId": "22",
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "description": "Sách nổi tiếng Think and Grow Rich",
+      "imageUrl": "https://picsum.photos/seed/book22/400/600",
+      "publishedYear": 2004
+    },
+    {
+      "id": "23",
+      "bookId": "23",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "description": "Sách nổi tiếng The Psychology of Money",
+      "imageUrl": "https://picsum.photos/seed/book23/400/600",
+      "publishedYear": 2010
+    },
+    {
+      "id": "24",
+      "bookId": "24",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "description": "Sách nổi tiếng The Lean Startup",
+      "imageUrl": "https://picsum.photos/seed/book24/400/600",
+      "publishedYear": 2015
+    },
+    {
+      "id": "25",
+      "bookId": "25",
+      "title": "Blue Ocean Strategy",
+      "author": "Kim & Mauborgne",
+      "description": "Sách nổi tiếng Blue Ocean Strategy",
+      "imageUrl": "https://picsum.photos/seed/book25/400/600",
+      "publishedYear": 2023
+    },
+    {
+      "id": "26",
+      "bookId": "26",
+      "title": "Marketing Management",
+      "author": "Philip Kotler",
+      "description": "Sách nổi tiếng Marketing Management",
+      "imageUrl": "https://picsum.photos/seed/book26/400/600",
+      "publishedYear": 2008
+    },
+    {
+      "id": "27",
+      "bookId": "27",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "description": "Sách nổi tiếng Atomic Habits",
+      "imageUrl": "https://picsum.photos/seed/book27/400/600",
+      "publishedYear": 2015
+    },
+    {
+      "id": "28",
+      "bookId": "28",
+      "title": "Đắc Nhân Tâm",
+      "author": "Dale Carnegie",
+      "description": "Sách nổi tiếng Đắc Nhân Tâm",
+      "imageUrl": "https://picsum.photos/seed/book28/400/600",
+      "publishedYear": 2010
+    },
+    {
+      "id": "29",
+      "bookId": "29",
+      "title": "Dám Bị Ghét",
+      "author": "Kishimi",
+      "description": "Sách nổi tiếng Dám Bị Ghét",
+      "imageUrl": "https://picsum.photos/seed/book29/400/600",
+      "publishedYear": 2021
+    },
+    {
+      "id": "30",
+      "bookId": "30",
+      "title": "Thinking Fast and Slow",
+      "author": "Daniel Kahneman",
+      "description": "Sách nổi tiếng Thinking Fast and Slow",
+      "imageUrl": "https://picsum.photos/seed/book30/400/600",
+      "publishedYear": 2024
     }
   ],
   "orders": [
     {
       "id": "1",
-      "userId": "2",
+      "userId": "1",
       "shopId": "1",
-      "status": "renting",
-      "totalAmount": 35000,
-      "rentalStartDate": "2026-06-15T00:00:00Z",
-      "rentalEndDate": "2026-06-22T00:00:00Z",
+      "status": "confirmed",
+      "totalAmount": 73667,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
       "items": [
-        { "bookId": "1", "quantity": 1, "rentPrice": 15000 },
-        { "bookId": "2", "quantity": 1, "rentPrice": 20000 }
+        {
+          "bookId": "18",
+          "quantity": 1,
+          "rentPrice": 25783
+        },
+        {
+          "bookId": "10",
+          "quantity": 1,
+          "rentPrice": 22262
+        },
+        {
+          "bookId": "5",
+          "quantity": 1,
+          "rentPrice": 25622
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "shopId": "2",
+      "status": "confirmed",
+      "totalAmount": 55293,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "1",
+          "quantity": 1,
+          "rentPrice": 14854
+        },
+        {
+          "bookId": "8",
+          "quantity": 1,
+          "rentPrice": 16507
+        },
+        {
+          "bookId": "12",
+          "quantity": 1,
+          "rentPrice": 23932
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "shopId": "3",
+      "status": "confirmed",
+      "totalAmount": 53387,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "10",
+          "quantity": 1,
+          "rentPrice": 15688
+        },
+        {
+          "bookId": "23",
+          "quantity": 1,
+          "rentPrice": 19083
+        },
+        {
+          "bookId": "29",
+          "quantity": 1,
+          "rentPrice": 18616
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "userId": "4",
+      "shopId": "4",
+      "status": "renting",
+      "totalAmount": 55197,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "22",
+          "quantity": 1,
+          "rentPrice": 26880
+        },
+        {
+          "bookId": "14",
+          "quantity": 1,
+          "rentPrice": 14142
+        },
+        {
+          "bookId": "15",
+          "quantity": 1,
+          "rentPrice": 14175
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "userId": "5",
+      "shopId": "5",
+      "status": "confirmed",
+      "totalAmount": 75303,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "8",
+          "quantity": 1,
+          "rentPrice": 26856
+        },
+        {
+          "bookId": "27",
+          "quantity": 1,
+          "rentPrice": 25661
+        },
+        {
+          "bookId": "30",
+          "quantity": 1,
+          "rentPrice": 22786
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "userId": "6",
+      "shopId": "6",
+      "status": "renting",
+      "totalAmount": 68106,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "15",
+          "quantity": 1,
+          "rentPrice": 18883
+        },
+        {
+          "bookId": "1",
+          "quantity": 1,
+          "rentPrice": 29758
+        },
+        {
+          "bookId": "27",
+          "quantity": 1,
+          "rentPrice": 19465
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "userId": "7",
+      "shopId": "7",
+      "status": "confirmed",
+      "totalAmount": 51181,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "18",
+          "quantity": 1,
+          "rentPrice": 24960
+        },
+        {
+          "bookId": "6",
+          "quantity": 1,
+          "rentPrice": 13379
+        },
+        {
+          "bookId": "25",
+          "quantity": 1,
+          "rentPrice": 12842
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "userId": "8",
+      "shopId": "8",
+      "status": "pending",
+      "totalAmount": 63928,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "1",
+          "quantity": 1,
+          "rentPrice": 24532
+        },
+        {
+          "bookId": "15",
+          "quantity": 1,
+          "rentPrice": 22590
+        },
+        {
+          "bookId": "27",
+          "quantity": 1,
+          "rentPrice": 16806
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "userId": "9",
+      "shopId": "9",
+      "status": "renting",
+      "totalAmount": 65558,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "23",
+          "quantity": 1,
+          "rentPrice": 17840
+        },
+        {
+          "bookId": "25",
+          "quantity": 1,
+          "rentPrice": 28664
+        },
+        {
+          "bookId": "22",
+          "quantity": 1,
+          "rentPrice": 19054
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "userId": "10",
+      "shopId": "10",
+      "status": "pending",
+      "totalAmount": 68392,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "12",
+          "quantity": 1,
+          "rentPrice": 23658
+        },
+        {
+          "bookId": "7",
+          "quantity": 1,
+          "rentPrice": 28275
+        },
+        {
+          "bookId": "8",
+          "quantity": 1,
+          "rentPrice": 16459
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "userId": "11",
+      "shopId": "11",
+      "status": "returned",
+      "totalAmount": 64981,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "21",
+          "quantity": 1,
+          "rentPrice": 25117
+        },
+        {
+          "bookId": "5",
+          "quantity": 1,
+          "rentPrice": 16622
+        },
+        {
+          "bookId": "22",
+          "quantity": 1,
+          "rentPrice": 23242
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "userId": "12",
+      "shopId": "12",
+      "status": "pending",
+      "totalAmount": 69999,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "19",
+          "quantity": 1,
+          "rentPrice": 17752
+        },
+        {
+          "bookId": "28",
+          "quantity": 1,
+          "rentPrice": 29173
+        },
+        {
+          "bookId": "4",
+          "quantity": 1,
+          "rentPrice": 23074
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "userId": "13",
+      "shopId": "13",
+      "status": "returned",
+      "totalAmount": 50223,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "29",
+          "quantity": 1,
+          "rentPrice": 14882
+        },
+        {
+          "bookId": "21",
+          "quantity": 1,
+          "rentPrice": 16909
+        },
+        {
+          "bookId": "10",
+          "quantity": 1,
+          "rentPrice": 18432
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "userId": "14",
+      "shopId": "14",
+      "status": "confirmed",
+      "totalAmount": 69519,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "29",
+          "quantity": 1,
+          "rentPrice": 28912
+        },
+        {
+          "bookId": "26",
+          "quantity": 1,
+          "rentPrice": 21988
+        },
+        {
+          "bookId": "9",
+          "quantity": 1,
+          "rentPrice": 18619
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "userId": "15",
+      "shopId": "15",
+      "status": "renting",
+      "totalAmount": 65918,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "13",
+          "quantity": 1,
+          "rentPrice": 21282
+        },
+        {
+          "bookId": "11",
+          "quantity": 1,
+          "rentPrice": 25629
+        },
+        {
+          "bookId": "30",
+          "quantity": 1,
+          "rentPrice": 19007
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "userId": "16",
+      "shopId": "16",
+      "status": "confirmed",
+      "totalAmount": 53189,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "24",
+          "quantity": 1,
+          "rentPrice": 13992
+        },
+        {
+          "bookId": "12",
+          "quantity": 1,
+          "rentPrice": 17067
+        },
+        {
+          "bookId": "3",
+          "quantity": 1,
+          "rentPrice": 22130
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "userId": "17",
+      "shopId": "17",
+      "status": "renting",
+      "totalAmount": 50756,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "3",
+          "quantity": 1,
+          "rentPrice": 17479
+        },
+        {
+          "bookId": "1",
+          "quantity": 1,
+          "rentPrice": 12271
+        },
+        {
+          "bookId": "21",
+          "quantity": 1,
+          "rentPrice": 21006
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "userId": "18",
+      "shopId": "18",
+      "status": "renting",
+      "totalAmount": 48912,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "1",
+          "quantity": 1,
+          "rentPrice": 17466
+        },
+        {
+          "bookId": "5",
+          "quantity": 1,
+          "rentPrice": 16007
+        },
+        {
+          "bookId": "3",
+          "quantity": 1,
+          "rentPrice": 15439
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "userId": "19",
+      "shopId": "19",
+      "status": "renting",
+      "totalAmount": 61191,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "16",
+          "quantity": 1,
+          "rentPrice": 12669
+        },
+        {
+          "bookId": "7",
+          "quantity": 1,
+          "rentPrice": 22722
+        },
+        {
+          "bookId": "21",
+          "quantity": 1,
+          "rentPrice": 25800
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "userId": "20",
+      "shopId": "20",
+      "status": "returned",
+      "totalAmount": 61606,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "8",
+          "quantity": 1,
+          "rentPrice": 16834
+        },
+        {
+          "bookId": "16",
+          "quantity": 1,
+          "rentPrice": 19056
+        },
+        {
+          "bookId": "30",
+          "quantity": 1,
+          "rentPrice": 25716
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "userId": "21",
+      "shopId": "21",
+      "status": "pending",
+      "totalAmount": 55716,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "23",
+          "quantity": 1,
+          "rentPrice": 13501
+        },
+        {
+          "bookId": "11",
+          "quantity": 1,
+          "rentPrice": 16026
+        },
+        {
+          "bookId": "1",
+          "quantity": 1,
+          "rentPrice": 26189
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "userId": "22",
+      "shopId": "22",
+      "status": "renting",
+      "totalAmount": 41855,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "15",
+          "quantity": 1,
+          "rentPrice": 16122
+        },
+        {
+          "bookId": "13",
+          "quantity": 1,
+          "rentPrice": 12705
+        },
+        {
+          "bookId": "20",
+          "quantity": 1,
+          "rentPrice": 13028
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "userId": "23",
+      "shopId": "23",
+      "status": "pending",
+      "totalAmount": 56835,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "30",
+          "quantity": 1,
+          "rentPrice": 23729
+        },
+        {
+          "bookId": "8",
+          "quantity": 1,
+          "rentPrice": 15478
+        },
+        {
+          "bookId": "27",
+          "quantity": 1,
+          "rentPrice": 17628
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "userId": "24",
+      "shopId": "24",
+      "status": "returned",
+      "totalAmount": 46089,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "2",
+          "quantity": 1,
+          "rentPrice": 14005
+        },
+        {
+          "bookId": "14",
+          "quantity": 1,
+          "rentPrice": 14476
+        },
+        {
+          "bookId": "10",
+          "quantity": 1,
+          "rentPrice": 17608
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "userId": "25",
+      "shopId": "25",
+      "status": "confirmed",
+      "totalAmount": 53979,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "28",
+          "quantity": 1,
+          "rentPrice": 27879
+        },
+        {
+          "bookId": "15",
+          "quantity": 1,
+          "rentPrice": 12980
+        },
+        {
+          "bookId": "3",
+          "quantity": 1,
+          "rentPrice": 13120
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "userId": "26",
+      "shopId": "26",
+      "status": "pending",
+      "totalAmount": 59624,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "5",
+          "quantity": 1,
+          "rentPrice": 22235
+        },
+        {
+          "bookId": "25",
+          "quantity": 1,
+          "rentPrice": 13830
+        },
+        {
+          "bookId": "13",
+          "quantity": 1,
+          "rentPrice": 23559
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "userId": "27",
+      "shopId": "27",
+      "status": "renting",
+      "totalAmount": 51444,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "20",
+          "quantity": 1,
+          "rentPrice": 14107
+        },
+        {
+          "bookId": "16",
+          "quantity": 1,
+          "rentPrice": 12956
+        },
+        {
+          "bookId": "7",
+          "quantity": 1,
+          "rentPrice": 24381
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "userId": "28",
+      "shopId": "28",
+      "status": "returned",
+      "totalAmount": 39045,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "20",
+          "quantity": 1,
+          "rentPrice": 13614
+        },
+        {
+          "bookId": "19",
+          "quantity": 1,
+          "rentPrice": 13317
+        },
+        {
+          "bookId": "11",
+          "quantity": 1,
+          "rentPrice": 12114
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "userId": "29",
+      "shopId": "29",
+      "status": "confirmed",
+      "totalAmount": 52676,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "22",
+          "quantity": 1,
+          "rentPrice": 15551
+        },
+        {
+          "bookId": "3",
+          "quantity": 1,
+          "rentPrice": 23578
+        },
+        {
+          "bookId": "23",
+          "quantity": 1,
+          "rentPrice": 13547
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "userId": "30",
+      "shopId": "30",
+      "status": "returned",
+      "totalAmount": 43708,
+      "rentalStartDate": "2026-06-01",
+      "rentalEndDate": "2026-06-15",
+      "items": [
+        {
+          "bookId": "4",
+          "quantity": 1,
+          "rentPrice": 13597
+        },
+        {
+          "bookId": "6",
+          "quantity": 1,
+          "rentPrice": 15464
+        },
+        {
+          "bookId": "10",
+          "quantity": 1,
+          "rentPrice": 14647
+        }
       ]
     }
   ],
@@ -162,8 +2117,968 @@
       "orderId": "1",
       "method": "credit_card",
       "status": "success",
-      "amount": 35000,
-      "transactionDate": "2026-06-15T10:30:00Z"
+      "amount": 73667
+    },
+    {
+      "id": "2",
+      "orderId": "2",
+      "method": "credit_card",
+      "status": "success",
+      "amount": 55293
+    },
+    {
+      "id": "3",
+      "orderId": "3",
+      "method": "cash",
+      "status": "success",
+      "amount": 53387
+    },
+    {
+      "id": "4",
+      "orderId": "4",
+      "method": "momo",
+      "status": "success",
+      "amount": 55197
+    },
+    {
+      "id": "5",
+      "orderId": "5",
+      "method": "credit_card",
+      "status": "success",
+      "amount": 75303
+    },
+    {
+      "id": "6",
+      "orderId": "6",
+      "method": "momo",
+      "status": "success",
+      "amount": 68106
+    },
+    {
+      "id": "7",
+      "orderId": "7",
+      "method": "credit_card",
+      "status": "success",
+      "amount": 51181
+    },
+    {
+      "id": "8",
+      "orderId": "8",
+      "method": "cash",
+      "status": "success",
+      "amount": 63928
+    },
+    {
+      "id": "9",
+      "orderId": "9",
+      "method": "credit_card",
+      "status": "success",
+      "amount": 65558
+    },
+    {
+      "id": "10",
+      "orderId": "10",
+      "method": "cash",
+      "status": "success",
+      "amount": 68392
+    },
+    {
+      "id": "11",
+      "orderId": "11",
+      "method": "momo",
+      "status": "success",
+      "amount": 64981
+    },
+    {
+      "id": "12",
+      "orderId": "12",
+      "method": "credit_card",
+      "status": "success",
+      "amount": 69999
+    },
+    {
+      "id": "13",
+      "orderId": "13",
+      "method": "credit_card",
+      "status": "success",
+      "amount": 50223
+    },
+    {
+      "id": "14",
+      "orderId": "14",
+      "method": "cash",
+      "status": "success",
+      "amount": 69519
+    },
+    {
+      "id": "15",
+      "orderId": "15",
+      "method": "cash",
+      "status": "success",
+      "amount": 65918
+    },
+    {
+      "id": "16",
+      "orderId": "16",
+      "method": "cash",
+      "status": "success",
+      "amount": 53189
+    },
+    {
+      "id": "17",
+      "orderId": "17",
+      "method": "credit_card",
+      "status": "success",
+      "amount": 50756
+    },
+    {
+      "id": "18",
+      "orderId": "18",
+      "method": "momo",
+      "status": "success",
+      "amount": 48912
+    },
+    {
+      "id": "19",
+      "orderId": "19",
+      "method": "momo",
+      "status": "success",
+      "amount": 61191
+    },
+    {
+      "id": "20",
+      "orderId": "20",
+      "method": "credit_card",
+      "status": "success",
+      "amount": 61606
+    },
+    {
+      "id": "21",
+      "orderId": "21",
+      "method": "credit_card",
+      "status": "success",
+      "amount": 55716
+    },
+    {
+      "id": "22",
+      "orderId": "22",
+      "method": "cash",
+      "status": "success",
+      "amount": 41855
+    },
+    {
+      "id": "23",
+      "orderId": "23",
+      "method": "cash",
+      "status": "success",
+      "amount": 56835
+    },
+    {
+      "id": "24",
+      "orderId": "24",
+      "method": "cash",
+      "status": "success",
+      "amount": 46089
+    },
+    {
+      "id": "25",
+      "orderId": "25",
+      "method": "momo",
+      "status": "success",
+      "amount": 53979
+    },
+    {
+      "id": "26",
+      "orderId": "26",
+      "method": "momo",
+      "status": "success",
+      "amount": 59624
+    },
+    {
+      "id": "27",
+      "orderId": "27",
+      "method": "momo",
+      "status": "success",
+      "amount": 51444
+    },
+    {
+      "id": "28",
+      "orderId": "28",
+      "method": "momo",
+      "status": "success",
+      "amount": 39045
+    },
+    {
+      "id": "29",
+      "orderId": "29",
+      "method": "momo",
+      "status": "success",
+      "amount": 52676
+    },
+    {
+      "id": "30",
+      "orderId": "30",
+      "method": "cash",
+      "status": "success",
+      "amount": 43708
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "userId": "1",
+      "bookId": "1",
+      "rating": 5,
+      "comment": "Một trong những cuốn sách hay nhất tôi từng đọc.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "bookId": "2",
+      "rating": 4,
+      "comment": "Chất lượng sách tốt, đáng để thuê.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "bookId": "3",
+      "rating": 4,
+      "comment": "Nội dung thực tế và dễ áp dụng.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "4",
+      "userId": "4",
+      "bookId": "4",
+      "rating": 5,
+      "comment": "Chất lượng sách tốt, đáng để thuê.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "5",
+      "userId": "5",
+      "bookId": "5",
+      "rating": 4,
+      "comment": "Nội dung thực tế và dễ áp dụng.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "6",
+      "userId": "6",
+      "bookId": "6",
+      "rating": 5,
+      "comment": "Nội dung thực tế và dễ áp dụng.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "7",
+      "userId": "7",
+      "bookId": "7",
+      "rating": 5,
+      "comment": "Chất lượng sách tốt, đáng để thuê.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "8",
+      "userId": "8",
+      "bookId": "8",
+      "rating": 4,
+      "comment": "Nội dung thực tế và dễ áp dụng.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "9",
+      "userId": "9",
+      "bookId": "9",
+      "rating": 5,
+      "comment": "Nội dung thực tế và dễ áp dụng.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "10",
+      "userId": "10",
+      "bookId": "10",
+      "rating": 4,
+      "comment": "Một trong những cuốn sách hay nhất tôi từng đọc.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "11",
+      "userId": "11",
+      "bookId": "11",
+      "rating": 4,
+      "comment": "Nội dung thực tế và dễ áp dụng.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "12",
+      "userId": "12",
+      "bookId": "12",
+      "rating": 4,
+      "comment": "Chất lượng sách tốt, đáng để thuê.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "13",
+      "userId": "13",
+      "bookId": "13",
+      "rating": 5,
+      "comment": "Cuốn sách rất đáng đọc cho người mới bắt đầu.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "14",
+      "userId": "14",
+      "bookId": "14",
+      "rating": 5,
+      "comment": "Cuốn sách rất đáng đọc cho người mới bắt đầu.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "15",
+      "userId": "15",
+      "bookId": "15",
+      "rating": 5,
+      "comment": "Ví dụ minh họa rõ ràng, dễ hiểu.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "16",
+      "userId": "16",
+      "bookId": "16",
+      "rating": 5,
+      "comment": "Cuốn sách rất đáng đọc cho người mới bắt đầu.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "17",
+      "userId": "17",
+      "bookId": "17",
+      "rating": 5,
+      "comment": "Nội dung thực tế và dễ áp dụng.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "18",
+      "userId": "18",
+      "bookId": "18",
+      "rating": 5,
+      "comment": "Chất lượng sách tốt, đáng để thuê.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "19",
+      "userId": "19",
+      "bookId": "19",
+      "rating": 4,
+      "comment": "Ví dụ minh họa rõ ràng, dễ hiểu.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "20",
+      "userId": "20",
+      "bookId": "20",
+      "rating": 5,
+      "comment": "Một trong những cuốn sách hay nhất tôi từng đọc.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "21",
+      "userId": "21",
+      "bookId": "21",
+      "rating": 5,
+      "comment": "Nội dung thực tế và dễ áp dụng.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "22",
+      "userId": "22",
+      "bookId": "22",
+      "rating": 4,
+      "comment": "Một trong những cuốn sách hay nhất tôi từng đọc.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "23",
+      "userId": "23",
+      "bookId": "23",
+      "rating": 4,
+      "comment": "Cuốn sách rất đáng đọc cho người mới bắt đầu.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "24",
+      "userId": "24",
+      "bookId": "24",
+      "rating": 5,
+      "comment": "Một trong những cuốn sách hay nhất tôi từng đọc.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "25",
+      "userId": "25",
+      "bookId": "25",
+      "rating": 5,
+      "comment": "Cuốn sách rất đáng đọc cho người mới bắt đầu.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "26",
+      "userId": "26",
+      "bookId": "26",
+      "rating": 5,
+      "comment": "Cuốn sách rất đáng đọc cho người mới bắt đầu.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "27",
+      "userId": "27",
+      "bookId": "27",
+      "rating": 5,
+      "comment": "Ví dụ minh họa rõ ràng, dễ hiểu.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "28",
+      "userId": "28",
+      "bookId": "28",
+      "rating": 4,
+      "comment": "Ví dụ minh họa rõ ràng, dễ hiểu.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "29",
+      "userId": "29",
+      "bookId": "29",
+      "rating": 5,
+      "comment": "Nội dung thực tế và dễ áp dụng.",
+      "createdAt": "2026-06-20"
+    },
+    {
+      "id": "30",
+      "userId": "30",
+      "bookId": "30",
+      "rating": 5,
+      "comment": "Một trong những cuốn sách hay nhất tôi từng đọc.",
+      "createdAt": "2026-06-20"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "1",
+      "userId": "1",
+      "bookId": "2"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "bookId": "3"
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "bookId": "4"
+    },
+    {
+      "id": "4",
+      "userId": "4",
+      "bookId": "5"
+    },
+    {
+      "id": "5",
+      "userId": "5",
+      "bookId": "6"
+    },
+    {
+      "id": "6",
+      "userId": "6",
+      "bookId": "7"
+    },
+    {
+      "id": "7",
+      "userId": "7",
+      "bookId": "8"
+    },
+    {
+      "id": "8",
+      "userId": "8",
+      "bookId": "9"
+    },
+    {
+      "id": "9",
+      "userId": "9",
+      "bookId": "10"
+    },
+    {
+      "id": "10",
+      "userId": "10",
+      "bookId": "11"
+    },
+    {
+      "id": "11",
+      "userId": "11",
+      "bookId": "12"
+    },
+    {
+      "id": "12",
+      "userId": "12",
+      "bookId": "13"
+    },
+    {
+      "id": "13",
+      "userId": "13",
+      "bookId": "14"
+    },
+    {
+      "id": "14",
+      "userId": "14",
+      "bookId": "15"
+    },
+    {
+      "id": "15",
+      "userId": "15",
+      "bookId": "16"
+    },
+    {
+      "id": "16",
+      "userId": "16",
+      "bookId": "17"
+    },
+    {
+      "id": "17",
+      "userId": "17",
+      "bookId": "18"
+    },
+    {
+      "id": "18",
+      "userId": "18",
+      "bookId": "19"
+    },
+    {
+      "id": "19",
+      "userId": "19",
+      "bookId": "20"
+    },
+    {
+      "id": "20",
+      "userId": "20",
+      "bookId": "21"
+    },
+    {
+      "id": "21",
+      "userId": "21",
+      "bookId": "22"
+    },
+    {
+      "id": "22",
+      "userId": "22",
+      "bookId": "23"
+    },
+    {
+      "id": "23",
+      "userId": "23",
+      "bookId": "24"
+    },
+    {
+      "id": "24",
+      "userId": "24",
+      "bookId": "25"
+    },
+    {
+      "id": "25",
+      "userId": "25",
+      "bookId": "26"
+    },
+    {
+      "id": "26",
+      "userId": "26",
+      "bookId": "27"
+    },
+    {
+      "id": "27",
+      "userId": "27",
+      "bookId": "28"
+    },
+    {
+      "id": "28",
+      "userId": "28",
+      "bookId": "29"
+    },
+    {
+      "id": "29",
+      "userId": "29",
+      "bookId": "30"
+    },
+    {
+      "id": "30",
+      "userId": "30",
+      "bookId": "1"
+    }
+  ],
+  "cartItems": [
+    {
+      "id": "1",
+      "userId": "1",
+      "bookId": "2",
+      "quantity": 2
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "bookId": "3",
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "bookId": "4",
+      "quantity": 1
+    },
+    {
+      "id": "4",
+      "userId": "4",
+      "bookId": "5",
+      "quantity": 1
+    },
+    {
+      "id": "5",
+      "userId": "5",
+      "bookId": "6",
+      "quantity": 2
+    },
+    {
+      "id": "6",
+      "userId": "6",
+      "bookId": "7",
+      "quantity": 2
+    },
+    {
+      "id": "7",
+      "userId": "7",
+      "bookId": "8",
+      "quantity": 2
+    },
+    {
+      "id": "8",
+      "userId": "8",
+      "bookId": "9",
+      "quantity": 2
+    },
+    {
+      "id": "9",
+      "userId": "9",
+      "bookId": "10",
+      "quantity": 1
+    },
+    {
+      "id": "10",
+      "userId": "10",
+      "bookId": "11",
+      "quantity": 1
+    },
+    {
+      "id": "11",
+      "userId": "11",
+      "bookId": "12",
+      "quantity": 2
+    },
+    {
+      "id": "12",
+      "userId": "12",
+      "bookId": "13",
+      "quantity": 2
+    },
+    {
+      "id": "13",
+      "userId": "13",
+      "bookId": "14",
+      "quantity": 2
+    },
+    {
+      "id": "14",
+      "userId": "14",
+      "bookId": "15",
+      "quantity": 2
+    },
+    {
+      "id": "15",
+      "userId": "15",
+      "bookId": "16",
+      "quantity": 1
+    },
+    {
+      "id": "16",
+      "userId": "16",
+      "bookId": "17",
+      "quantity": 1
+    },
+    {
+      "id": "17",
+      "userId": "17",
+      "bookId": "18",
+      "quantity": 1
+    },
+    {
+      "id": "18",
+      "userId": "18",
+      "bookId": "19",
+      "quantity": 2
+    },
+    {
+      "id": "19",
+      "userId": "19",
+      "bookId": "20",
+      "quantity": 1
+    },
+    {
+      "id": "20",
+      "userId": "20",
+      "bookId": "21",
+      "quantity": 2
+    },
+    {
+      "id": "21",
+      "userId": "21",
+      "bookId": "22",
+      "quantity": 2
+    },
+    {
+      "id": "22",
+      "userId": "22",
+      "bookId": "23",
+      "quantity": 2
+    },
+    {
+      "id": "23",
+      "userId": "23",
+      "bookId": "24",
+      "quantity": 1
+    },
+    {
+      "id": "24",
+      "userId": "24",
+      "bookId": "25",
+      "quantity": 1
+    },
+    {
+      "id": "25",
+      "userId": "25",
+      "bookId": "26",
+      "quantity": 2
+    },
+    {
+      "id": "26",
+      "userId": "26",
+      "bookId": "27",
+      "quantity": 2
+    },
+    {
+      "id": "27",
+      "userId": "27",
+      "bookId": "28",
+      "quantity": 1
+    },
+    {
+      "id": "28",
+      "userId": "28",
+      "bookId": "29",
+      "quantity": 1
+    },
+    {
+      "id": "29",
+      "userId": "29",
+      "bookId": "30",
+      "quantity": 2
+    },
+    {
+      "id": "30",
+      "userId": "30",
+      "bookId": "1",
+      "quantity": 1
+    }
+  ],
+  "notifications": [
+    {
+      "id": "1",
+      "userId": "1",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "4",
+      "userId": "4",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "5",
+      "userId": "5",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "6",
+      "userId": "6",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "7",
+      "userId": "7",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "8",
+      "userId": "8",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "9",
+      "userId": "9",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "10",
+      "userId": "10",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "11",
+      "userId": "11",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "12",
+      "userId": "12",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "13",
+      "userId": "13",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "14",
+      "userId": "14",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "15",
+      "userId": "15",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "16",
+      "userId": "16",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "17",
+      "userId": "17",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "18",
+      "userId": "18",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "19",
+      "userId": "19",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "20",
+      "userId": "20",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "21",
+      "userId": "21",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "22",
+      "userId": "22",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "23",
+      "userId": "23",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "24",
+      "userId": "24",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "25",
+      "userId": "25",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "26",
+      "userId": "26",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "27",
+      "userId": "27",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "28",
+      "userId": "28",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "29",
+      "userId": "29",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
+    },
+    {
+      "id": "30",
+      "userId": "30",
+      "title": "Đơn thuê đã được xác nhận",
+      "isRead": false
     }
   ]
 }
