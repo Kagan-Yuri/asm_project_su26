@@ -1,9 +1,11 @@
-import React from 'react'
-import { Container } from 'react-bootstrap';
+import React from 'react';
+import { Navbar,Nav,Form,Button,Container } from 'react-bootstrap';
 
 function Footer() {
   return (
-    <div>Footer</div>
+    <div>
+      
+    </div>
   )
 }
 

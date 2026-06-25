@@ -5,11 +5,14 @@ import { BrowserRouter, Route, Link, Routes } from 'react-router-dom';
 import Login from './components/Login';
 import Register from './components/Register';
 import BookList from './components/BookList';
+import Header from './recycle/Header';
 // import View from './components/View'
 
 function App() {
   return (
     <BrowserRouter>
+      <Container>
+        <Header/>
       <Routes>
         <Route path="/" element={<Login />}/>
         <Route path="/register" element={<Register />}/>
@@ -19,6 +22,7 @@ function App() {
         <Route path="/" element={<Login />}/>
         <Route path="/" element={<Login />}/> */}
       </Routes>
+      </Container>
     </BrowserRouter>
   );
 }

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Paging from "./Paging";
+import Paging from "../recycle/Paging";
 import { Col, Card, Spinner, Alert, Navbar, Container, Nav, Button } from "react-bootstrap";
 import { Link, useNavigate } from "react-router-dom";
 
