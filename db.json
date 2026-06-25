@@ -209,6 +209,13 @@
       "email": "user30@gmail.com",
       "password": "User123@",
       "role": "customer"
+    },
+    {
+      "username": "dungth",
+      "email": "thtrue@gmail.com",
+      "password": "vandung",
+      "role": "customer",
+      "id": "szIGCAWJwEk"
     }
   ],
   "userinformations": [
@@ -772,7 +779,7 @@
       "price": 28082,
       "rentCount": 396,
       "stock": 4,
-      "averageRating": 5.0,
+      "averageRating": 5,
       "totalReviews": 288,
       "status": "available"
     },
@@ -1327,6 +1334,48 @@
       "description": "Sách nổi tiếng Thinking Fast and Slow",
       "imageUrl": "https://picsum.photos/seed/book30/400/600",
       "publishedYear": 2024
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "IT"
+    },
+    {
+      "id": "2",
+      "name": "AI"
+    },
+    {
+      "id": "3",
+      "name": "Data Science"
+    },
+    {
+      "id": "4",
+      "name": "Ngoai ngu"
+    },
+    {
+      "id": "5",
+      "name": "Kinh te"
+    },
+    {
+      "id": "6",
+      "name": "Tieu thuyet"
+    },
+    {
+      "id": "7",
+      "name": "Tam ly"
+    },
+    {
+      "id": "8",
+      "name": "Marketing"
+    },
+    {
+      "id": "9",
+      "name": "Lich su"
+    },
+    {
+      "id": "10",
+      "name": "Thieu nhi"
     }
   ],
   "orders": [
