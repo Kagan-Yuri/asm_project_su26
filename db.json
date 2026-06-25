@@ -2,9 +2,9 @@
   "users": [
     {
       "id": "1",
-      "username": "user1",
-      "email": "user1@gmail.com",
-      "password": "User123@",
+      "username": "dungvan",
+      "email": "vandung123@gmail.com",
+      "password": "dung123",
       "role": "admin"
     },
     {

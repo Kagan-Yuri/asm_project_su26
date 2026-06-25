@@ -4,7 +4,7 @@ import { Container } from 'react-bootstrap';
 import { BrowserRouter, Route, Link, Routes } from 'react-router-dom';
 import Login from './components/Login';
 import Register from './components/Register';
-// import Home from './components/Home';
+import BookList from './components/BookList';
 // import View from './components/View'
 
 function App() {
@@ -13,6 +13,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Login />}/>
         <Route path="/register" element={<Register />}/>
+        <Route path="/book" element={<BookList />}/>
         {/* <Route path="/home" element={<Home />}/>
         <Route path="/view-user/:id" element={<View />}/>
         <Route path="/" element={<Login />}/>

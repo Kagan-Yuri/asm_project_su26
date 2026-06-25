@@ -1,12 +1,13 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Card, Form, Button, Alert } from "react-bootstrap";
 import axios from "axios";
-import { animate } from "animejs";
+import { useNavigate, Link } from "react-router-dom"; // Import thêm useNavigate
+// import { animate } from "animejs";
 
 function Login() {
-  const [exists, setExist] = useState(true);
-  const [registered, isRegistered] = useState(false);
-  const [users, setUsers] = useState("");
+  // const [exists, setExist] = useState(true);
+  // const [registered, isRegistered] = useState(false);
+  // const [users, setUsers] = useState("");
   
   // Quản lý state của form input
   const [username, setUsername] = useState("");
@@ -18,31 +19,38 @@ function Login() {
 
   // Tham chiếu đến phần tử Card để điều khiển animation
   const cardRef = useRef(null);
-
+  const navigate = useNavigate();
   // Chạy hiệu ứng khi component vừa mount
-  useEffect(() => {
-    animate(cardRef.current, {
-      translateY: [-50, 0],
-      opacity: [0, 1],
-      duration: 1000
-    });
-  }, []);
+  // useEffect(() => {
+  //   animate(cardRef.current, {
+  //     translateY: [-50, 0],
+  //     opacity: [0, 1],
+  //     duration: 1000
+  //   });
+  // }, []);
 
-  // Hàm tạo hiệu ứng rung lắc khi có lỗi
-  const shakeAnimation = () => {
-    animate(cardRef.current, {
-      translateX: [-10, 10, -10, 10, 0],
-      duration: 400
-    });
-  };
+  // // Hàm tạo hiệu ứng rung lắc khi có lỗi
+  // const shakeAnimation = () => {
+  //   animate(cardRef.current, {
+  //     translateX: [-10, 10, -10, 10, 0],
+  //     duration: 400
+  //   });
+  // };
 
-  const handleSubmit = async (e) => {
-    e.preventDefault(); // Ngăn trình duyệt reload lại trang khi submit form
+  function handleUsernameChange(e) {
+    setUsername(e.target.value);
+  }
+
+  function handlePasswordChange(e) {
+    setPassword(e.target.value);
+  }
+
+  async function handleSubmit(e) {
+    e.preventDefault(); 
     
     if (!username || !password) {
       setMessage("Vui lòng nhập đầy đủ thông tin!");
       setIsSuccess(false);
-      shakeAnimation(); // Gọi hiệu ứng rung khi thiếu thông tin
       return;
     }
   
@@ -55,10 +63,13 @@ function Login() {
         if (user.password === password) {
           setMessage("Đăng nhập thành công!");
           setIsSuccess(true);
+          
+          // Lưu username vào bộ nhớ trình duyệt và chuyển hướng
+          localStorage.setItem("loggedInUser", user.username);
+          navigate("/book"); 
         } else {
           setMessage("Sai mật khẩu, vui lòng thử lại!");
           setIsSuccess(false);
-          shakeAnimation(); // Gọi hiệu ứng rung khi sai mật khẩu
         }
       } else {
         const newUser = {
@@ -67,15 +78,21 @@ function Login() {
           role: "customer"
         };  
         await axios.post("http://localhost:9999/users", newUser);
-        setMessage("Tài khoản chưa tồn tại. Hệ thống đã tự động tạo mới và đăng nhập!");
+        setMessage("Tạo mới tài khoản thành công! Đang chuyển hướng...");
         setIsSuccess(true);
+        
+        // Lưu username và chuyển hướng
+        localStorage.setItem("loggedInUser", username);
+        setTimeout(function() {
+          navigate("/book");
+        }, 1000); // Đợi 1 giây để người dùng đọc thông báo
       }
     } catch (err) {
       console.log(err);
       setMessage("Có lỗi xảy ra khi kết nối đến server.");
       setIsSuccess(false);
     }
-  };
+  }
 
   return (
     <div 
@@ -87,7 +104,6 @@ function Login() {
           Đăng nhập / Đăng ký
         </h3>
         
-        {/* Hiển thị thông báo nếu có */}
         {message && (
           <Alert variant={isSuccess ? "success" : "danger"}>
             {message}
@@ -100,7 +116,7 @@ function Login() {
             <Form.Control 
               type="text" 
               value={username}
-              onChange={(e) => setUsername(e.target.value)} 
+              onChange={handleUsernameChange} 
               placeholder="Nhập username của bạn"
             />
           </Form.Group>
@@ -110,7 +126,7 @@ function Login() {
             <Form.Control 
               type="password" 
               value={password}
-              onChange={(e) => setPassword(e.target.value)} 
+              onChange={handlePasswordChange} 
               placeholder="Nhập mật khẩu"
             />
           </Form.Group>
@@ -120,6 +136,9 @@ function Login() {
               XÁC NHẬN
             </Button>
           </div>
+          <div className="text-center">
+            <span className="text-muted"> Chưa có tài khoản? </span> <Link to="/register"> Đăng Ký </Link>
+            </div>
         </Form>
       </Card>
     </div>
